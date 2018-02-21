@@ -1,3 +1,3 @@
 # PO4
 4. laboratorijas darbs.
-
+Apgustu git versiju kontroli...
